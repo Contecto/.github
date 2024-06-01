@@ -1,1 +1,1 @@
-# .github
+All important repositories are private
