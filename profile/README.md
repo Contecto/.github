@@ -1,2 +1,2 @@
 ## All repositories are hidden from public
- Ask member permission to get read/write acces
+ Ask me for member permission to get read/write acces
